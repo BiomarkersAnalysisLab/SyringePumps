@@ -4,7 +4,7 @@ Project realised by AGH Biomarkers Analysis Lab as a part of NCN SONATA BIS 12: 
 
 The main objective of the project was to create highly accurate pumps allowing precise dispension of fluids, with realatively low cost. 
 
-The project was based on opensource project: https://github.com/pachterlab/poseidon/tree/release under the BSD-2-Clause license with modifications explained in "Changes_in_original_design.docx" file
+The project was based on opensource project: https://github.com/pachterlab/poseidon/tree/release under the BSD-2-Clause license with modifications explained in "Changes_in_original_design.docx" file.
 
 All the modified 3D models are available, and the test were conducted to prove the efficiency of the pumps.
 
