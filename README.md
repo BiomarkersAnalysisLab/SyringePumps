@@ -1,4 +1,4 @@
-                                                                            ![image](https://github.com/user-attachments/assets/f2cba749-dd51-4bc8-b782-9c18eb25d901)
+![Obraz1](https://github.com/user-attachments/assets/73f7a84b-ef8e-4fcb-8243-67979e220388)
 
 Project realised by AGH Biomarkers Analysis Lab as a part of NCN SONATA BIS 12:  "Badania nad możliwością realizacji bioczujników do detekcji biomarkerów cukrzycy i NAFLD otrzymywanych w technologii TWD/GLAD" nr 2022/46/E/ST7/00008.
 The main objective of the project was to create highly accurate pumps allowing precise dispension of fluids, with realatively low cost. 
